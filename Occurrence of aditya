@@ -1,0 +1,4 @@
+#assignment-2:Find the occurence of "Aditya" in given string "Aditya educational institutes
+str= "Aditya educational institutes"
+str1=str.count("Aditya")
+print(str1)
